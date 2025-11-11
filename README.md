@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover_customer.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+</p>
+
+
 # 🛒 Everything Plus — Customer Segmentation & Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -84,6 +89,7 @@ The analysis was conducted in **Jupyter Notebooks** and summarized in an **inter
 - **Statistical Testing**: Statsmodels, SciPy  
 - **Machine Learning**: scikit-learn (K-Means, Logistic Regression, Random Forest)  
 - **Visualization**: Tableau, Jupyter Notebook
+
 
 
 
